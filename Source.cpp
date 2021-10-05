@@ -1,6 +1,6 @@
 #include <iostream>
 #include <conio.h>
-
+// main file
 using namespace std;
 
 extern bool gameOver, toJump;
